@@ -1,3 +1,5 @@
+package BasicInputOutput;
+
 import java.util.Scanner;
 
 /**
